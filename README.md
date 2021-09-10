@@ -19,10 +19,11 @@ Cara menginstall aplikasi ini pada komputer Anda (untuk OS Windows) :
 # Merubah Baseurl
 Sebelum mengakses aplikasi pada browser pastikan port yang digunakan dan pastikan baseurl sudah tepat. dapat dipastikan pada file :
 > klinik-rm/app/config/config.php
+
 Buka file config,php, lalu cari kode
 > define('BASEURL', 'http://localhost:8080/klinik-rm');
 Ubah http://localhost:8080/klinik-rm sesuai kebutahan
-------------
+
 
 # Model
 Model merupakan bagian yang mengelola dan berhubungan langsung dengan database. Bagian ini terletak pada :
