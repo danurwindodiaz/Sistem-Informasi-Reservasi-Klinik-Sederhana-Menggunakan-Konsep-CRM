@@ -22,6 +22,7 @@ Sebelum mengakses aplikasi pada browser pastikan port yang digunakan dan pastika
 
 Buka file config,php, lalu cari kode
 > define('BASEURL', 'http://localhost:8080/klinik-rm');
+
 Ubah http://localhost:8080/klinik-rm sesuai kebutahan
 
 
