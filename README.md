@@ -6,7 +6,6 @@ Projek ini merupakan sistem reservasi klinik sederhana menggunakan konsep MVC (M
 - Pengolahan data Pasien
 
 Terdapat satu actor yaitu sebagai petugas
-------------
 
 # Cara Install
 Cara menginstall aplikasi ini pada komputer Anda (untuk OS Windows) :
